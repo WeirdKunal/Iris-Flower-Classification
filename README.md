@@ -82,6 +82,3 @@ Model selection is based on evaluation scores.[2]
 Contributions are welcome. Open issues or submit pull requests for improvements.
 
 
-[12](https://repos.ecosyste.ms/hosts/GitHub/repositories/DevanshMistry890%2Firis-flower-classification?path=README.md)
-[13](https://www.kaggle.com/code/nathsubhajit/iris-flower-classification)
-[14](https://huggingface.co/Gnaneshwari/IRIS-FLOWER-CLASSIFICATION-using-machine-learning-models/blob/main/transformers/utils/check_copies.py)
