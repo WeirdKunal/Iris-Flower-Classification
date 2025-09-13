@@ -12,7 +12,7 @@ This project demonstrates supervised machine learning using the classic Iris dat
 - **Source:** Available via UCI Machine Learning Repository or Kaggle (“iris.csv”)
 - **Features:** Sepal length, Sepal width, Petal length, Petal width (all in centimeters)
 - **Labels:** Iris-setosa, Iris-versicolor, Iris-virginica
-- **Size:** 150 samples (50 per species)[5][9][13]
+- **Size:** 150 samples (50 per species)
 
 ## Problem Statement
 
